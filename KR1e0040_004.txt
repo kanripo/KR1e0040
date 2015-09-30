@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左氏傳續說
-#+DATE: 2015-09-23 09:39:37
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:13:58.934861
+#+PROPERTY: ID KR1e0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1e0040_WYG_004-1a>¶
 欽定四庫全書¶
 　左氏傳續説卷四　　　宋　吕祖謙　撰¶
@@ -366,4 +368,3 @@
 諸侯城緣陵而&KR0118;杞焉(十四/年)¶
 　遷杞便與遷邢不同此見齊桓公自葵丘㑹後驕心¶
 　生凡事皆不如前時¶
-

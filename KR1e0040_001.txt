@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 左氏傳續說
-#+DATE: 2015-09-23 09:39:37
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:13:58.871468
+#+PROPERTY: ID KR1e0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0040_WYG_001-1a>¶
 欽定四庫全書¶
 　左氏傳續説卷一　　　　宋　吕祖謙　撰¶
@@ -314,4 +316,3 @@
 　畿有六鄉六鄉外有六縣六縣外有都鄙此古采地¶
 　之制未嘗世襲但世禄耳自春秋以來采地諸侯始¶
 　世嗣¶
-
